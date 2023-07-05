@@ -13,6 +13,7 @@ import java.util.Scanner;
  * @author sivagamasrinivasan
  * 
  */
+
 public class ArithmeticBase 
 {
  public double x,y;
